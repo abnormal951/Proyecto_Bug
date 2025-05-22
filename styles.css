@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0; 
+    padding: 0;
+} 
+
+.container {
+    width: 100%;
+    background-color: #f0f0f0;
+
+h1 {  <!-- Error: falta cerrar la llave de .container -->
+    color: blue;
+}
+
+#btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
